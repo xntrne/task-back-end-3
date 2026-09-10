@@ -1,0 +1,27 @@
+{"timestamp":"2026-09-10T14:06:13.975Z","method":"GET","url":"/authors/%","statusCode":500,"message":"Failed to decode param '%'"}
+{"timestamp":"2026-09-10T14:06:23.618Z","method":"GET","url":"/authors/fake_author","statusCode":404,"message":"author fake_author not found"}
+{"timestamp":"2026-09-10T14:06:30.292Z","method":"POST","url":"/users","statusCode":400,"message":"Expected property name or '}' in JSON at position 4 (line 1 column 5)"}
+{"timestamp":"2026-09-10T14:07:01.548Z","method":"GET","url":"/authors/%","statusCode":500,"message":"Failed to decode param '%'"}
+{"timestamp":"2026-09-10T14:07:08.538Z","method":"GET","url":"/authors/fake_author","statusCode":404,"message":"author fake_author not found"}
+{"timestamp":"2026-09-10T14:07:12.630Z","method":"POST","url":"/users","statusCode":400,"message":"Expected property name or '}' in JSON at position 4 (line 1 column 5)"}
+{"timestamp":"2026-09-10T14:07:30.238Z","method":"POST","url":"/users","statusCode":400,"message":"Expected property name or '}' in JSON at position 4 (line 1 column 5)"}
+{"timestamp":"2026-09-10T14:07:41.627Z","method":"POST","url":"/users","statusCode":400,"message":"Expected property name or '}' in JSON at position 4 (line 1 column 5)"}
+{"timestamp":"2026-09-10T14:08:24.215Z","method":"POST","url":"/users","statusCode":400,"message":"Expected property name or '}' in JSON at position 2 (line 1 column 3)"}
+{"timestamp":"2026-09-10T14:08:36.819Z","method":"POST","url":"/users","statusCode":400,"message":"Expected property name or '}' in JSON at position 2 (line 1 column 3)"}
+{"timestamp":"2026-09-10T14:08:41.435Z","method":"POST","url":"/users","statusCode":400,"message":"Expected property name or '}' in JSON at position 2 (line 1 column 3)"}
+{"timestamp":"2026-09-10T14:09:30.774Z","method":"POST","url":"/users","statusCode":400,"message":"Expected double-quoted property name in JSON at position 20 (line 1 column 21)"}
+{"timestamp":"2026-09-10T14:09:47.765Z","method":"POST","url":"/users","statusCode":400,"message":"Expected double-quoted property name in JSON at position 19 (line 1 column 20)"}
+{"timestamp":"2026-09-10T14:10:11.093Z","method":"POST","url":"/users","statusCode":400,"message":"Unexpected non-whitespace character after JSON at position 31 (line 1 column 32)"}
+{"timestamp":"2026-09-10T14:10:24.027Z","method":"POST","url":"/users","statusCode":400,"message":"Unexpected non-whitespace character after JSON at position 33 (line 1 column 34)"}
+{"timestamp":"2026-09-10T14:13:31.605Z","method":"GET","url":"/authors/fake_author","statusCode":404,"message":"author fake_author not found"}
+{"timestamp":"2026-09-10T14:13:36.191Z","method":"GET","url":"/authors/%","statusCode":500,"message":"Failed to decode param '%'"}
+{"timestamp":"2026-09-10T14:14:24.164Z","method":"GET","url":"/authors/%","statusCode":500,"message":"Failed to decode param '%'"}
+{"timestamp":"2026-09-10T14:26:53.380Z","method":"GET","url":"/authors/fake_author","statusCode":404,"message":"author fake_author not found"}
+{"timestamp":"2026-09-10T14:26:57.884Z","method":"GET","url":"/authors/%","statusCode":500,"message":"Failed to decode param '%'"}
+{"timestamp":"2026-09-10T14:27:25.746Z","method":"GET","url":"/authors/%","statusCode":500,"message":"Failed to decode param '%'"}
+{"timestamp":"2026-09-10T14:33:19.391Z","method":"GET","url":"/authors/fake_author","statusCode":404,"message":"author fake_author not found"}
+{"timestamp":"2026-09-10T14:34:07.134Z","method":"GET","url":"/authors/%","statusCode":500,"message":"Failed to decode param '%'"}
+{"timestamp":"2026-09-10T14:51:05.424Z","method":"POST","url":"/authors","statusCode":400,"message":"Expected property name or '}' in JSON at position 2 (line 1 column 3)"}
+{"timestamp":"2026-09-10T14:51:15.225Z","method":"POST","url":"/authors","statusCode":400,"message":"Expected property name or '}' in JSON at position 2 (line 1 column 3)"}
+{"timestamp":"2026-09-10T14:52:00.004Z","method":"POST","url":"/authors","statusCode":400,"message":"Expected property name or '}' in JSON at position 2 (line 1 column 3)"}
+{"timestamp":"2026-09-10T14:53:10.886Z","method":"POST","url":"/authors","statusCode":400,"message":"invalid request body","details":[{"expected":"string","code":"invalid_type","path":["name"],"message":"Invalid input: expected string, received undefined"}]}
